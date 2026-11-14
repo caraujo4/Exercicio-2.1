@@ -1,28 +1,29 @@
-\# Exercício 2.1 — Mapa de Atores de um Serviço Público
+﻿# Exercício 2.1 — Mapa de Atores de um Serviço Público
 
 
 
-\*\*Autor\*\* — Carlos Vinícius do Carmo Araújo
+**Autor** — Carlos Vinícius do Carmo Araújo
 
 
 
-\## Entregáveis
+## Entregáveis
 
 
 
-\- \[A — Meta-prompt](A\_meta\_prompt.md)
+- [A — Meta-prompt](A_meta_prompt.md)
 
-\- \[B — Relatório inicial](B\_relatorio\_assistente\_v1.md)
+- [B — Relatório inicial](B_relatorio_assistente_v1.md)
 
-\- \[B — Primeira auditoria](B\_relatorio\_auditoria\_v1.md)
+- [B — Primeira auditoria](B_relatorio_auditoria_v1.md)
 
-\- \[B — Relatório revisado](B\_relatorio\_assistente\_v2.md)
+- [B — Relatório revisado](B_relatorio_assistente_v2.md)
 
-\- \[B — Segunda auditoria](B\_relatorio\_auditoria\_v2.md)
+- [B — Segunda auditoria](B_relatorio_auditoria_v2.md)
 
-\- \[B — Relatório final](B\_relatorio\_assistente\_v3.md)
+- [B — Relatório final](B_relatorio_assistente_v3.md)
 
-\- \[C — Transcrição da sessão](C\_grill\_transcript.md)
+- [C — Transcrição da sessão](C_grill_transcript.md)
 
-\- \[C — Mapa de atores](C\_mapa\_atores.md)
+- [C — Mapa de atores](C_mapa_atores.md)
+
 
