@@ -1,4 +1,4 @@
-# \# Exercício 2.1 — Mapa de Atores de um Serviço Público
+# Exercício 2.1 — Mapa de Atores de um Serviço Público
 
 # 
 
